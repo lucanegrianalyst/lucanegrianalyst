@@ -40,5 +40,5 @@ Professional opportunities in **Tech, FinTech, Data Operations, or Technical Sup
 ### 📫 Contact
 
 - **GitHub:** [@lucanegrianalyst](https://github.com/lucanegrianalyst)
-- **LinkedIn:** *(Add your LinkedIn profile URL here)*
-- **Email:** *(Add your professional email here)*
+- **LinkedIn:** [luca-negri-it](https://www.linkedin.com/in/luca-negri-it/)
+- **Email:** [lucanegri.analyst@gmail.com](mailto:lucanegri.analyst@gmail.com)
